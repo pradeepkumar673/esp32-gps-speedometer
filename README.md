@@ -49,7 +49,7 @@ Check User_Setup.h in TFT_eSPI library
 Note: Set up your TFT pins in the TFT_eSPI/User_Setup.h file. Mine uses SPI defaults (e.g., MOSI 23, SCK 18, CS 5, DC 2, RST 4).
 Setup
 
-Clone this repo: git clone https://github.com/[YourGitHubUsername]/[YourRepoName].git
+Clone this repo:
 Open the .ino file in Arduino IDE.
 Select your ESP32 board (Tools > Board > ESP32 Dev Module).
 Config TFT_eSPI:
